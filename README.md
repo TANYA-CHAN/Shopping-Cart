@@ -1,7 +1,7 @@
 <h1>Project link</h1>
 <a href="https://brave-newton-b09e53.netlify.app/">Click Here!</a>
 
-<h2>/ uilt with Create React App</h2>
+<h2>Built with Create React App</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
